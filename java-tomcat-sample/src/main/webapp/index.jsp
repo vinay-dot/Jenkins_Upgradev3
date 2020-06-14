@@ -6,6 +6,11 @@
       <h2> Polling didnt not worked...
         ADDED:
         POLL SCM : H/5 * * * *
+        
         <h2/>
+        <h2>Now created a PIPELINE from Dec to Prod</h2>
+        <h2></h2><h2></h2>
+        <h2></h2>
+        <h2></h2>
 </body>
 </html>
